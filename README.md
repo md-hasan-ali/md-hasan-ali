@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, My Name is Md Hasan Ali
+#### I am Software Quality Assurance Engineer
+![I am Software Quality Assurance Engineer](https://i.ibb.co/85D50WK/Md-Hasan-Ali.jpg)
 
-<!--
-**md-hasan-ali/md-hasan-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dedicated and detail-oriented SQA Engineer with a track record of ensuring top-tier software quality over 2 years. Proficient in strategic test planning, precise execution, and meticulous defect tracking. Eager to bring my skills to a vibrant software development team and contribute to the delivery of exceptional products
 
-Here are some ideas to get you started:
+Skills: HTML, CSS, JavaScript, Selenium, Cypress, Playwright, Cucumber Framework, Allure Report, Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning JavaScript and Automation Tools 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Software Quality Assurance  
+- 📫 How to reach me: Email, LinkedIn 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-hasan-ali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasanali719//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Md_Hasan_Ali/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=md-hasan-ali)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-hasan-ali&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=md-hasan-ali)  
+
