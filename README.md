@@ -1,4 +1,3 @@
-![I am Software Quality Assurance Engineer](https://i.ibb.co/85D50WK/Md-Hasan-Ali.jpg)
 ### Hi there 👋, My Name is Md Hasan Ali
 #### I am Software Quality Assurance Engineer
 
