@@ -5,11 +5,6 @@ Dedicated and detail-oriented SQA Engineer with a track record of ensuring top-t
 
 Skills: HTML, CSS, JavaScript, Selenium, Cypress, Playwright, Cucumber Framework, Allure Report, Jira
 
-- 🌱 I’m currently learning JavaScript and Automation Tools 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Software Quality Assurance  
-- 📫 How to reach me: Email, LinkedIn 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-hasan-ali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasanali719//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Md_Hasan_Ali/)  
 
