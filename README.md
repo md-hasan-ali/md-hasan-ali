@@ -4,8 +4,8 @@
 Dedicated and detail-oriented SQA Engineer with a track record of ensuring top-tier software quality over 2 years. Proficient in strategic test planning, precise execution, and meticulous defect tracking. Eager to bring my skills to a vibrant software development team and contribute to the delivery of exceptional products
 
 ### Skills: 
-**Automation Tools:** Selenium, Cypress, Playwright and Cucumber Framework
-**API & Performance Testing Tools:** Postman, Rest Assured & Jmeter
+**Automation Tools:** Selenium, Cypress, Playwright and Cucumber Framework <br>
+**API & Performance Testing Tools:** Postman, Rest Assured & Jmeter <br>
 **Programming Skills:** HTML, CSS, Bootstrap, JavaScript 
 
 
