@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name is Md Hasan Ali
 #### I am a Software Quality Assurance Engineer
 
-Dedicated and detail-oriented SQA Engineer with a track record of ensuring top-tier software quality over 2 years. Proficient in strategic test planning, precise execution, and meticulous defect tracking. Eager to bring my skills to a vibrant software development team and contribute to the delivery of exceptional products
+Dedicated and detail-oriented SQA Engineer with a track record of ensuring top-tier software quality over 3+ years. Proficient in strategic test planning, precise execution, and meticulous defect tracking. Eager to bring my skills to a vibrant software development team and contribute to the delivery of exceptional products
 
 ### Skills: 
 **Automation Tools:** Selenium, Cypress, Playwright and Cucumber Framework <br>
